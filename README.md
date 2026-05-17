@@ -1,4 +1,4 @@
-# 🛒 Online Retail Data Analysis (EDA)
+# 🛒Online Retail Sales & Customer Analytics
 
 ## 📌 Objective
 
